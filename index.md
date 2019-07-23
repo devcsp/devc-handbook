@@ -1,4 +1,4 @@
-# Facebook Developer Circle – Handbook
+# Facebook Developer Circle
 
 <p align="center">
   <img  height="320" src="https://secure.meetupstatic.com/photos/event/a/e/c/f/highres_452804751.jpeg" alt="dev circle logo"/>
