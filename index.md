@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# Facebook Developer Circle – Handbook
 
-You can use the [editor on GitHub](https://github.com/devcsp/devc-handbook/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<p align="center">
+  <img  height="320" src="https://secure.meetupstatic.com/photos/event/a/e/c/f/highres_452804751.jpeg" alt="dev circle logo"/>
+</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+O _Developer Circles_ é um programa administrado pela comunidade, sem custos para se tornar membro e aberto para qualquer desenvolvedor. Focado em compartilhar conhecimento através de eventos, colaborar, construir novas ideias e aprender sobre as últimas tecnologias do _Facebook_ e outros líderes da indústria. Se um membro de um _circle_ é um estudante aprendendo a programar, um desenvolvedor buscando tornar uma ideia realidade ou um desenvolvedor com experiência, buscando pelos últimos produtos do _Facebook_ e novidades das ferramentas _open source_, esta é a comunidade ideial para você. O _Developer Circles_ capacita uma gama diversificada de talentos técnicos para melhorar suas habilidades e dar acesso às informações que precisa. Promovendo comunidades mais fortes e criando mais conhecimentos técnicos, nosso objetivo é empoderar desenvolvedores.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/devcsp/devc-handbook/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [Encontros](./Encontros/Readme.md)
+- [Seja um contributor](./Contributers/seja-um-contributer.md)
+- [Nossos contributers](./Contributers/lista-de-contributers.md)
+- [Seja um palestrante](./Palestrantes/call4paper.md)
+- [Palestrantes devC](./Palestrantes/palestrates-devc.md)
