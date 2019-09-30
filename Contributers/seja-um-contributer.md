@@ -33,5 +33,3 @@ Não podemos chegar nas festas com a "roupa de ficar em casa" né? então precis
 ### Moderação / Engajamento online
 Niguém merece estra num grupo morto né? que tal dar uma ajudinha movimentando e moderação do nosso grupo do Facebook em ?
 
-# Como posso ser um contributer
-Quer ser um contributer? Preencha esse formulário [aqui](https://docs.google.com/forms/d/e/1FAIpQLSdoKaDbXN94Udu6CDJfZDqyiVSN4J8pq0FOtCyey6Zh7eCF3g/viewform?usp=sf_link) que entraremos em contato contigo! :D
