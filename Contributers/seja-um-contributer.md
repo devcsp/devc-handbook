@@ -16,7 +16,7 @@ Um evento não se faz sozinho, então é muito importante nos unir para que poss
 Quem não quer ter registros dos melhores ~meetups~ momentos da nossa vida não é mesmo? e isso não é diferente com nossos meetups/conferências, precisamos de pessoas que possam fotografar nossos eventos para que tenhamos as memórias desses momentos inesqueciveis que são nossos ecnnntrso.
 
 ###  Gravação e transmissão dos Meetups
-Para levarmos contúdos técnicos para aqueles que não possam estar em SP, fazemos lives do nossos meetups sempre que possível, e para isso precisamos de alguém que fique de olho nessa live para se certificar que o áudio está certinho, que todas as dúvidas dos nossos poarticipantes estão sendo sanadas, que a internet não caiu... 
+Para levarmos contúdos técnicos para aqueles que não possam estar em SP, fazemos lives do nossos meetups sempre que possível, e para isso precisamos de alguém que fique de olho nessa live para se certificar que o áudio está certinho, que todas as dúvidas dos nossos participantes estão sendo sanadas, que a internet não caiu... 
 
 ### Conteúdo / GitHub
 Aquele menino do computador que vai nos ajudar a organizar o nosso GitHub e concentrar todos os materiais de palestrantes, nossa futura página, PR e tudo que há de bom!, além de ajudar a galera com conteúdo o técnico \0/
